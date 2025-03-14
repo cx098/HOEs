@@ -1,0 +1,5 @@
+ETT_m1: https://paperswithcode.com/dataset/ett
+household: https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
+Wind、Solar：https://www.nature.com/articles/s41597-022-01696-6
+traffic：https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume
+weather：https://gitcode.com/gh_mirrors/weat/weather/overview?utm_source=highlight_word_gitcode&word=weather&isLogin=1
